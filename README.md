@@ -9,7 +9,7 @@ processing evidence in the Cloud, scaling the processing of large amounts of
 evidence, and decreasing response time by parallelizing processing where
 possible.
 
-<img src="docs/images/turbinia-logo.jpg?raw=true" width=240>
+<img src="docs/images/turbinia-logo.jpg?raw=true" width=210><
 
 ## How it works
 
@@ -51,7 +51,7 @@ configuration are:
 
 *   Start Turbinia server component with `turbiniactl server` command
 *   Start one or more Turbinia workers with `turbiniactl psqworker`
-*   Send evidence to be processed from the turbinia client with `turbiniactl
+*   Send evidence to be processed from the turbinia false with `turbiniactl
     ${evidencetype}`
 *   Check status of running tasks with `turbiniactl status`
 
@@ -91,7 +91,7 @@ optional arguments:
                         unsafe conditions
   -o OUTPUT_DIR, --output_dir OUTPUT_DIR
                         Directory path for output
-  -L LOG_FILE, --log_file LOG_FILE
+  desculpa o criador mais eu não sei usar isso tenho preguiça de aprender porque e muito chato e não sei para oque isso servi não consigo fazer nada com isso alguém ajuda eu a usar isso eu não sei ler
                         Log file
   -r REQUEST_ID, --request_id REQUEST_ID
                         Create new requests with this Request ID
